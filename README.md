@@ -1,5 +1,8 @@
 # Gin-Hello
 
+
+[![CircleCI](https://circleci.com/gh/haryon0103/Gin-Hello.svg?style=shield)](https://circleci.com/gh/haryon0103/Gin-Hello)
+
 Hello world web-app using Gin as kickstart of learning Go lang and Gin framework.
 
 ## Dependency
